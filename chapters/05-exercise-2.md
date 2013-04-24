@@ -4,6 +4,10 @@ While our first application gave us a good taste of how Backbone.js applications
 
 In this exercise we will build a library application for managing digital books using Backbone. For each book we will store the title, author, date of release, and some keywords. We'll also show a picture of the cover.
 
+##Introduction
+Contacter @tfalvo ou @thierry.falvo
+
+
 
 ##Setting up
 
